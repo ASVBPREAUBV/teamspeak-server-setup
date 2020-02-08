@@ -1,2 +1,2 @@
 # teamspeak-server-setup
-https://github.com/rcguy/ts3server
+https://github.com/eminga/ts3updater
